@@ -1,0 +1,34 @@
+#header{
+    background-color: rgba(249, 243, 77, 0.911);
+}
+
+#logo_ml{
+    width: 130px;
+    height: 40px;
+}
+
+#disney_star_promo{
+    width: 350px;
+    height: 40px;
+}
+
+#search{
+    width: 600px;
+}
+
+#icon-search{
+    width: 15px;
+}
+
+#icon-location, #shopping-cart{
+    width: 25px;
+}
+
+#categoria-select{
+    width: 125px;
+    height: 25px ;
+}
+
+a{
+    margin-left: 1rem;
+}
